@@ -2,7 +2,7 @@
 
 A production-ready AI pipeline that auto-detects document type and extracts structured fields from any document using **GPT-4o**.
 
-Built by **Mithilesh Singh** · [GitHub](https://github.com/mithilesh1909)
+Built with ❤️ by **Mithilesh Singh** · [GitHub](https://github.com/mithilesh1909)
 
 ---
 
